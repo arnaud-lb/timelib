@@ -4,7 +4,7 @@ This is a standalone version of the PHP timelib library that can be found at htt
 
 ## building
 
-    cmake .
+    ./configure
     make
     make install
 
