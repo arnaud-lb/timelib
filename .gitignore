@@ -1,7 +1,14 @@
+*.o
+.deps/
 CMakeCache.txt
 CMakeFiles/
 Makefile
+autom4te.cache/
 cmake_install.cmake
+config.log
+config.status
 install_manifest.txt
 libtimelib.a
+src/stamp-h1
+src/timelib_config.h
 timelib.pc
